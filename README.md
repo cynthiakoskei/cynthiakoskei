@@ -39,7 +39,8 @@ Data Analyst | Python Enthusiast | SQL Ninja | Developer
 
 <a href="http://www.github.com/cynthiakoskei"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cynthiakoskei&stroke=0891b2&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=0891b2&currStreakLabel=14b8a6&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-[![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cynthiakoskei&bg_color=1c1917&color=0891b2&line=ffffff&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/cynthiakoskei)
+[![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cynthiakoskei&theme=dark&hide_border=true&area=true)](https://github.com/cynthiakoskei)
+
 
 
 <a href="https://github.com/cynthiakoskei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiakoskei&langs_count=10&title_color=14b8a6&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
