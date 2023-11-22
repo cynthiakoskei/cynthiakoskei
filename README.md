@@ -42,6 +42,4 @@ I'm an enthusiastic data analyst that loves transforming unstructured data into 
 
 <div width="100%" align="center"><a href="https://github.com/cynthiakoskei/AfricanecityBankLoan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cynthiakoskei&repo=AfricanecityBankLoan&title_color=14b8a6&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/cynthiakoskei/RFM-ANALYSIS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cynthiakoskei&repo=RFM-ANALYSIS&title_color=14b8a6&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
