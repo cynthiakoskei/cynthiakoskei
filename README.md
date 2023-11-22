@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **BRS-KRA Data Integration**
 - 🌱 I’m currently learning **Cloud Practices** with `ÀWS`
+- 🔧 Tech Stack:
+**Languages**: Python, SQL
+**Tools**: Pandas, NumPy, Matplotlib, Seaborn, PowerBi
+**Databases**: MySQL, PostgreSQL, Oracle
 - 📫 How to reach me: koskei.thia@gmail.com
 - 😄 Pronouns: `She/Her`
 - ⚡ Fun fact: I play the `guitar` and I love `reading` and `coding`
