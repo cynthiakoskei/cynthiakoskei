@@ -2,8 +2,8 @@ Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-078
 I'm Cynthia Koskei :grinning:
 ====================================================================================================================================== 
 
-Data Analyst | Python Enthusiast | SQL Ninja
---------------------------------------------
+Data Analyst | Python Enthusiast | SQL Ninja | Developer
+--------------------------------------------------------
 ![](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
 
 `I'm an enthusiastic data analyst that loves transforming unstructured data into useful insights. My area of expertise is taking valuable data out of large, complex databases and turning it into reports that are visually appealing.`
@@ -24,13 +24,13 @@ Data Analyst | Python Enthusiast | SQL Ninja
 </p>
 
 
-### Talk with me, I am kinda awesome:
+### :computer: Talk with me, I am kinda awesome :iphone::
 
 <p align="left"> <a href="https://discord.com/users/Ckoskei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="32" height="32" /></a> <a href="https://www.github.com/cynthiakoskei" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="https://www.dev.to/ckoskei" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cynthia-koskei" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/KoskeiCynthia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
-⚡<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> :fire:
 
 <a href="http://www.github.com/cynthiakoskei"><img src="https://github-readme-stats.vercel.app/api?username=cynthiakoskei&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="cynthiakoskei's GitHub stats" /></a>
 
