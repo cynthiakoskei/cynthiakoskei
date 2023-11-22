@@ -6,7 +6,7 @@ Data Analyst | Python Enthusiast | SQL Ninja
 --------------------------------------------
 ![](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
 
-I'm an enthusiastic data analyst that loves transforming unstructured data into useful insights. My area of expertise is taking valuable data out of large, complex databases and turning it into reports that are visually appealing.
+`I'm an enthusiastic data analyst that loves transforming unstructured data into useful insights. My area of expertise is taking valuable data out of large, complex databases and turning it into reports that are visually appealing.`
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [MyPortfolio](http://zswzsds)
