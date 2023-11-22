@@ -16,7 +16,7 @@ Data Analyst | Python Enthusiast | SQL Ninja
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I play the guitar 
 
-### Tech Stack:
+### :boom: Tech Stack:
 
 
 <p align="left">
