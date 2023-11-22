@@ -12,7 +12,7 @@ Data Analyst | Python Enthusiast | SQL Ninja | Developer
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [MyPortfolio](http://zswzsds)
 * ✉️  You can contact me at [koskei.thia@gmail.com](mailto:koskei.thia@gmail.com)
-* 🚀  I'm currently working on [API Data Integration Project](http://https://github.com/BradleyDaudi/BRS-KRA-DATA-INTEGRATION)       
+* 🚀  I'm currently working on [API Data Integration Project](https://github.com/BradleyDaudi/BRS-KRA-DATA-INTEGRATION)       
 * 🧠  I'm learning Cloud Practices with AWS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I play the acoustic :guitar:
