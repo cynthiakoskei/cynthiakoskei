@@ -1,15 +1,17 @@
+
 Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Cynthia Koskei aka engineer
-======================================================================================================================================
+====================================================================================================================================== 
 
 Data Analyst | Python Enthusiast | SQL Ninja
 --------------------------------------------
+<div width="15%" align="right">![Your Gif](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)</div>
 
 I'm an enthusiastic data analyst that loves transforming unstructured data into useful insights. My area of expertise is taking valuable data out of large, complex databases and turning it into reports that are visually appealing.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [MyPortfolio](http://zswzsds)
 * ✉️  You can contact me at [koskei.thia@gmail.com](mailto:koskei.thia@gmail.com)
-* 🚀  I'm currently working on [API Data Integration Project](http://https://github.com/BradleyDaudi/BRS-KRA-DATA-INTEGRATION)
+* 🚀  I'm currently working on [API Data Integration Project](http://https://github.com/BradleyDaudi/BRS-KRA-DATA-INTEGRATION)        ![Code](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
 * 🧠  I'm learning Cloud Practices with AWS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I play the guitar 
