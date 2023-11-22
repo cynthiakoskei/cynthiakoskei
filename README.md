@@ -4,7 +4,6 @@ Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 Data Analyst | Python Enthusiast | SQL Ninja
 --------------------------------------------
-<div width="15%" align="right">![Your Gif](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)</div>
 
 I'm an enthusiastic data analyst that loves transforming unstructured data into useful insights. My area of expertise is taking valuable data out of large, complex databases and turning it into reports that are visually appealing.
 
