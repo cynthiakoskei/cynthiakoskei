@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on **BRS-KRA Data Integration**
+- 🌱 I’m currently learning **Cloud Practices** with `ÀWS`
+- 📫 How to reach me: koskei.thia@gmail.com
+- 😄 Pronouns: `She/Her`
+- ⚡ Fun fact: I play the `guitar` and I love `reading` and `coding`
 <!--
 **cynthiakoskei/cynthiakoskei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
