@@ -2,7 +2,7 @@ Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-078
 I'm Cynthia Koskei :grinning:
 ====================================================================================================================================== 
 
-Data Scientist | Python Enthusiast | SQL Ninja | Developer
+Data Analyst | Python Enthusiast | SQL Ninja | Developer
 --------------------------------------------------------
 ![](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
 
