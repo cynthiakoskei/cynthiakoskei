@@ -16,7 +16,7 @@ Data Analyst | Aspiring Data Engineer | Python Enthusiast | SQL Ninja | Develope
 * 🧠  I'm a Certified AWS Cloud Practitioner [AWS Certified Cloud Practitioner Certificate](https://drive.google.com/file/d/10fE8IaDU1eyt19e1FB3hSWkIMsY18Wmu/view?usp=sharing)
 * 🧠  I'm currently working on a data engineering project on [Data Engineering Project with GCP](https://github.com/cynthiakoskei/data-engineering-datatalks)
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I play the acoustic :guitar:
+* ⚡  I play the acoustic guitar:guitar:
 
 ### :boom: Tech Stack:
 
